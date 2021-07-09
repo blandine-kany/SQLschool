@@ -5,11 +5,9 @@ C'est un outil codé en Java et son objectif est de faciliter l'apprentissage du
 ## Dossiers
 
 
-#### SQLschool
-
+#### SQLschool:
 Ce dossier contient le code source du logiciel.
 
 
-#### Executable
-
-Ce dossier contient les éléments pour exécuter le logiciel. Cela correspond au contenu du zip mentionner dans la partie "instalation" du mode d'emploi.
+#### Executable:
+Ce dossier contient les éléments permettant d'éxécuter le logiciel. Cela correspond au contenu du zip mentionné dans la partie "installation" du mode d'emploi.
